@@ -1,0 +1,707 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"pos"
+			],
+			[
+				"pre",
+				"prevState"
+			],
+			[
+				"l",
+				"lurkTime"
+			],
+			[
+				"E",
+				"Enter"
+			],
+			[
+				"Game",
+				"GameManager"
+			],
+			[
+				"ra",
+				"RandPosition"
+			],
+			[
+				"Get",
+				"GetGrid"
+			],
+			[
+				"B",
+				"boardScript"
+			],
+			[
+				"Outlaw",
+				"OutlawTravel"
+			],
+			[
+				"Ou",
+				"OutlawCamp"
+			],
+			[
+				"C",
+				"Cemetery"
+			],
+			[
+				"ob",
+				"objectCost"
+			],
+			[
+				"tile",
+				"tileCost"
+			],
+			[
+				"random",
+				"randomPosition"
+			],
+			[
+				"S",
+				"Sheriff"
+			],
+			[
+				"SHERI",
+				"SHERIFFS_OFFICE"
+			],
+			[
+				"OUTLAW",
+				"OUTLAW_CAMP"
+			],
+			[
+				"get",
+				"GetComponent"
+			],
+			[
+				"O",
+				"Outlaw"
+			],
+			[
+				"Out",
+				"OutlawObject"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"OUT",
+				"OUTLAW_CAMP"
+			],
+			[
+				"Ra",
+				"RandomPosition"
+			],
+			[
+				"o",
+				"outlawCamp"
+			],
+			[
+				"location",
+				"locationsCount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Completed/Scripts/Agent.cs",
+			"settings":
+			{
+				"buffer_size": 662,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Completed/Scripts/Locations.cs",
+			"settings":
+			{
+				"buffer_size": 1281,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Completed/Scripts/Outlaw.cs",
+			"settings":
+			{
+				"buffer_size": 5587,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Completed/Scripts/StateMachine.cs",
+			"settings":
+			{
+				"buffer_size": 1118,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Completed/Scripts/GameManager.cs",
+			"settings":
+			{
+				"buffer_size": 3926,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Completed/Scripts/BoardManager.cs",
+			"settings":
+			{
+				"buffer_size": 7954,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Completed/Scripts/AStar.cs",
+			"settings":
+			{
+				"buffer_size": 5817,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts"
+	],
+	"file_history":
+	[
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/sheriff - cowboy 3.txt",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/Hnadling of ICT Waste Streams.txt",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/GameManager.cs",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/Grid.cs",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/BoardManager.cs",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/State.cs",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/Sheriff.cs",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/StateMachine.cs",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/Tile.cs",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/Locations.cs",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/Agent.cs",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/Miner.cs",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/Outlaw.cs",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/roguelike/Assets/Completed/Scripts/Loader.cs",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Networked Applications/github/notes.txt",
+		"/Users/tadhgriordan/Documents/Personal/Job Hunting/Deloitte.txt",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Research Project/Application/Project/solidity/sample_contracts/EscrowContractUnfinished.sol",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Research Project/Application/Project/libsnark/src/zk_proof_systems/zksnark/ram_zksnark/ram_zksnark.tcc",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Research Project/Application/Project/libsnark/src/zk_proof_systems/zksnark/ram_zksnark/ram_compliance_predicate.tcc",
+		"/Users/tadhgriordan/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/macneill",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Research Project/commands for opennebula network",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Autonomous Agents/Lab/Assets/Scripts/Matthew Green - ZKP.txt",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Networked Applications/Presentation/Meeting 24:02",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Research Project/zcash protocol spec - high level overview and key concepts",
+		"/Users/tadhgriordan/Documents/Course/5th Year/Research Project/sources for dissertation.txt",
+		"/Users/tadhgriordan/Documents/Course/5th Year/TODO.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			"/Users/tadhgriordan//Documents/Course/5th Year/Autonomous Agents/git",
+			"/Users/tadhgriordan//Documents/Course/5th Year/Autonomous Agents/roguelike"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"LurkBank",
+			"-1",
+			"gridCost",
+			"gridCcostost",
+			"OutlawTravel",
+			"Update",
+			"LurkTime",
+			"isBored",
+			"ChangeState",
+			"TravelState",
+			"OutlawTravel",
+			"TravelState",
+			"tile",
+			"grid",
+			"tile",
+			"gridObject",
+			"grid",
+			"outlawObject",
+			"grid",
+			"location",
+			"][",
+			".x",
+			"grid",
+			"rows",
+			"columns",
+			"LayoutObjectAtRandom",
+			"Instantiate",
+			"TravelState",
+			"targetPosition",
+			"goalPosition",
+			", type",
+			"adjPosition.X",
+			"adjPosition.Y",
+			"TileMap.Tiles",
+			"startPosition.X",
+			"startPosition.Y",
+			"targetPosition.Y",
+			"targetPosition.X",
+			"tile.position",
+			"tile.position.Y",
+			"tile.position.X",
+			"tile.position.x",
+			"Vector2",
+			"ChangeState",
+			"RevertToPrevState",
+			"ChangeState",
+			"statemac",
+			"Tile",
+			"LayoutObjectAtRandom",
+			"floortiles",
+			"tile",
+			"GetPathPositions",
+			"LayoutObjectAtRandom",
+			"floorTiles",
+			"gridPositions",
+			"boardHolder",
+			"outlaw",
+			"debug.log",
+			"1000",
+			"location",
+			"locationsCount",
+			"LocationProperties",
+			"locationC",
+			"outlaws",
+			"MoveEnemies",
+			"enemies",
+			"add",
+			"boardScript",
+			"OutlawObject",
+			"//",
+			"OutlawObject",
+			"InitGame",
+			"instance",
+			"static",
+			"Location",
+			"Instantiate",
+			"location",
+			"LocationCoords",
+			"wallTiles",
+			"Instantiate",
+			"outerWallTiles",
+			"floorTiles",
+			"enemyTiles",
+			"food",
+			"floorTiles",
+			"tadhgriordan",
+			"spec"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			", ",
+			"dimension",
+			"goalPos",
+			"",
+			"adjPosition.x",
+			"adjPosition.y",
+			"grid",
+			"startPosition.x",
+			"startPosition.y",
+			"targetPosition.y",
+			"targetPosition.x",
+			"tile.Position",
+			"tile.position.y",
+			"tile.position.x",
+			"tile.position.X",
+			"Vector3",
+			"3000"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Completed/Scripts/Agent.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								373,
+								388
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Completed/Scripts/Locations.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								216
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/Completed/Scripts/Outlaw.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1822,
+								1822
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1058.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Assets/Completed/Scripts/StateMachine.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1081,
+								1113
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 74.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Assets/Completed/Scripts/GameManager.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								598,
+								598
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 8.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Assets/Completed/Scripts/BoardManager.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2719,
+								2719
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2590.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Assets/Completed/Scripts/AStar.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1143,
+								1143
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 276.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 378.0
+	},
+	"pinned_build_system": "",
+	"project": "roguelike.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Projects/Autonomous_Agents.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
